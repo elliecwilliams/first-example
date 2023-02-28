@@ -1,1 +1,4 @@
-# first-example
+# My first repo
+
+* A bullet point
+  * Sub-point
